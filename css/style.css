@@ -1,0 +1,63 @@
+.fa{
+  transform: scale(2,2);
+  display: inline-block;
+}
+
+div {
+  align-items: baseline;
+}
+body{
+  font-family: serif;
+}
+.logo{
+  text-align:center;
+}
+
+.name{
+  font-size: 30px
+}
+.name b{
+  font-size: 35px
+}
+.title{
+  display: inline-block;
+  vertical-align: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:#3C6BAF;
+}
+.line{
+  display:inline-block;
+  vertical-align: 15px;
+  padding-left: 100px;
+  color:#3C6BAF;
+  background-color:#3C6BAF;
+  border: 3px #3C6BAF;
+  height: 3px;
+}
+.cvLeft td {
+
+    padding: 30px;
+    display: inline-block;
+    white-space: nowrap;
+    table-layout:fixed;
+
+}
+
+.cvRight td {
+
+    padding: 30px;
+    display: inline-block;
+    white-space: nowrap;
+    table-layout:fixed;
+}
+
+.text{
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.contactTitle{
+  color: #3C6BAF;
+  padding-right: 20px;
+}
